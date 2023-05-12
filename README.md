@@ -116,7 +116,7 @@ Link naar het [testplan.](https://docs.google.com/document/d/1oQQ9XDxXS25HKwzruN
 Vandaag hadden we het eerste interview met Petra. Dit was de eerste keer dat ik mijn groepje zag, dus ik had nog niet echt iets gemaakt wat heel uitgebreid was, maar Petra kon wel gewoon even erdoorheen gaan en hardop denken.
 
 ![concept1](/images/concept/version1.png)
-Ik had nog veel kunnen doen, maar dit was de eerste versie van mij concept. Petra kreeg hier de opties om verschillende kleding stukken te kiezen. Het ging hier bij mij meer om het navigeren en hoe ik dit kon verbeteren.
+Ik had nog veel kunnen doen, maar dit was de eerste versie van mij concept. Petra kreeg hier de opties om verschillende kleding stukken te kiezen. Het ging hier bij mij meer om het navigeren en hoe ik dit kon verbeteren. Na het kiezen van haar kleding stukken kreeg ze een melding of dit wel echt matched of niet. Het probleem hierbij is dan dat ze elk kleding stuk af moet gaan om te kijken of ze matchen of niet. Dit is natuurlijk niet echt handig, dus dit moest ik nog verbeteren.
 
 #### Bevindingen interview
 
@@ -166,6 +166,10 @@ Vandaag hadden we het tweede interview met Petra, dus we konden hier onze verwer
 ![](/images/concept/stap3.png)
 ![](/images/concept/stap4.png)
 ![](/images/concept/stap5.png)
+
+Hierbij heb ik de verbeteringen van de vorige test toegepast. Ik heb de kleding categorieen opverdeeld, dit maakt het filteren veel makkelijker. Ook hoeft Petra niet meer de hele kleding kast door te lopen, maar krijgt ze gewoon alleen de combos die werken met het gekozen kleding stuk. 
+
+Ook krijgt ze kleine feedback om het leuker te maken. Zoals bijvoorbeeld: "Je ziet er goed uit vandaag!" of "Je ziet er geweldig uit vandaag!". Dit is natuurlijk niet echt nodig, maar het maakt het wel leuker.
 
 ## Week 3 - Prototypen, presenteren en reflecteren
 
