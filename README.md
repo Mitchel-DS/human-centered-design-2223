@@ -10,11 +10,12 @@ Hoe kan Petra (gedeeltelijk) zelfstandig kleding combineren, zonder te zien?
 
 ## Probleemdefinitie
 
-Petra, heeft moeite met het onderscheiden van kleding. Ze is namelijk blind en kan daardoor niet goed onderscheid maken tussen de kleding stukken. Dit maakt het matchen van kleding moeilijk. 
+Petra, heeft moeite met het onderscheiden van kleding. Ze is namelijk blind en kan daardoor niet goed onderscheid maken tussen de kleding stukken. Dit maakt het zelfstandig matchen van kleding moeilijk. Ze kan bij sommige kleding stukken wel herkennen aan textuur of materiaal, maar zij wilt graag een makkelijkere manier om kleding te kunnen matchen en combineren.
 
 ## Oplossing
 
-Voor het matching aspect van probleem heb ik bedacht om van te voren uit te zoeken welke kleding stukken matchen en deze bij het kiezen van 1 kleding stuk als suggestie mee te geven. Als petra dan een kleding stuk kiest, krijgt zij alleen suggesties voor kleding dat matched met het gekozen kleding stuk + gelegenheid.
+Voor het matching aspect van probleem heb ik bedacht om van te voren uit te zoeken welke kleding stukken matchen en deze bij het kiezen van 1 kleding stuk als suggestie mee te geven. Als petra dan een kleding stuk kiest, krijgt zij alleen suggesties voor kleding dat matched met het gekozen kleding stuk. Op deze manier krijgt ze al gelijk kleding stukken aangeboden die bij elkaar passen in plaats van door haar hele kleding kast heen te gaan.
+
 
 ## Link prototype
 
@@ -23,6 +24,10 @@ Hier een link naar de [demo.](https://mitchel-ds.github.io/human-centered-design
 ## Opdracht
 
 De opdracht is om een virtuele kledingkast te maken voor Petra. Petra is blind en heeft moeite met het onderscheiden van kleding. Ze heeft een kledingkast vol met kleding, maar kan niet goed onderscheid maken tussen de kleding stukken. Ze kan bij sommige kleding stukken wel herkennen aan textuur of materiaal, maar zij wilt graag een makkelijkere manier om kleding te kunnen matchen en combineren.
+
+### Focus
+
+Omdat deze opdracht namelijk in groepsverband was en wij allemaal wel in dezelfde richting zaten, heb ik mijn focus meer gelegd op het makkelijk kunnen navigeren door applicatie met behulp van de screenreader en hoe ik de toeganglijkheid van de applicatie kan verbeteren. Ook focus ik me op het combineren van de kleding stukken.
 
 ### Ontwerpen met en voor echte mensen
 
@@ -176,13 +181,12 @@ We kregen voor de les even tijd om onze presentaties voor te bereide. Dit hebben
 
 Link naar de [presentatie.](https://docs.google.com/presentation/d/1CeNEhJFS1ypGw_i1eTxKXGO0IRABJ7lAkgF81yPrGc8/edit?usp=sharing)
 
-
 ## Toekomstige verbeteringen
 
 Natuurlijk heb ik niet alles wat ik wilde kunnen verwerken in het concept. Hieronder een lijstje met dingen die ik in de toekomst nog zou willen toevoegen als ik daar tijd voor zou hebben. 
 
 - Op dit moment worden de kleding combinaties van te voren gemaakt en moeten ook telkens worden geupdate als er een nieuw kleding stuk wordt toegevoegd. Het zou mooi zijn als de AI zelf kleding combinaties kan maken en deze kan voorstellen aan Petra.
-- Een database aanmaken met al haarkleding stukken. Dan kan ze zelf ook kleding toevoegen, verwijderen of aanpassen.
+- Een database aanmaken met al haar kleding stukken. Dan kan ze zelf ook kleding toevoegen, verwijderen of aanpassen.
 - Het is op dit moment natuurlijk een web applicatie, maar het is niet handig om elke keer een laptop of computer er bij te halen om je kleren uit te zoeken. Het zou mooi zijn als het een mobiele applicatie wordt, zodat ze het gewoon op haar telefoon kan doen. 
 
 ### License
