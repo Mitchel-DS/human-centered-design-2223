@@ -1,6 +1,7 @@
-# Virtuele kledingkast 
+# Petra's virtuele kledingkast 
 
-<img src='images/placeholder_thumbnail.webp'>
+![placeholder](/images/placeholder_thumbnail.webp)
+[Source](https://i0.wp.com/zerrin.com/wp-content/uploads/2021/10/online-wardrobe-closet-organizing-app-zerrin.png?fit=1024%2C768&ssl=1)
 
 
 ## Onderzoeksvraag
@@ -27,8 +28,45 @@ De opdracht is om een virtuele kledingkast te maken voor Petra. Petra is blind e
 
 Petra is een echte gebruiker en daarom is het belangrijk om haar te betrekken bij het ontwerpproces. Dit doe ik door middel van een interview en zo veel mogelijk testen.
 
+## Design Principles
+
+### Study situation
+
+*"In order to become specialist designers for all kinds of people with all kinds of disabilities we have to study different, individual situations."*
+
+Petra is blind geboren. Hierdoor beleefd zij haar dagelijks leven heel anders dan mij. Om een goed concept te verzinnen moet ik mij verdiepen in haar situatie. 
+
+Waar maakt ze dagelijks gebruik van? Wat zijn haar gewoontes? Wat zijn haar beperkingen? Hoe werkt het op dit moment met kleren uitzoeken? 
+
+Ze maakt gebruik van een screenreader op haar telefoon, maar zij kan gewoon een laptop gerbuiken met een special toetsenbord. Ze kan dus gewoon gebruik maken van een website. Bij het uitzoeken van haar kleren maakt ze gebruik van haar geheugen en hulp van haar man. Dit heeft niet altijd tijd om te helpen.
+
+### Prioritise identity
+
+*"Including excluded people into our design process, by seeing them as co-designers rather than study objects, can help in coming up with new, and relevant, conventions."*
+
+Door Petra bij het ontwerp proces te betrekken kunnen we een beter beeld krijgen van wat zij belangrijk vindt. Hierdoor wordt het concept ook wat persoonlijker. We maken het namelijk voor haar specifiek, dus we hoeven eigenlijk geen rekening te houden met andere mensen. We testen daarom ook zo veel mogelijk met haar en proberen haar indentiteit er zo veel mogelijk in te verwerken.
+
+Zij maakt gebruik van de NVDA screenreader, dus ik heb mijn concept ook afgestemd en getest op deze screenreader.
+
+### Ignore conventions
+
+*"The current conventions are designed by, and thus for, designers. Not all of these conventions work for non-designers. If we want to include non-designers, and especially people with disabilities, we should reconsider these conventions, after we studied their situations."*
+
+Wij als designers, vooral op CMD, zijn bepaalde conventies gewent. Hierdoor houden wij vaak rekening met deze conventies, maar deze zijn niet altijd afgesteld op iedereen. Vooral niet op mensen met een beperking. 
+
+Petra kan namelijk niet zien, dus heel van de design conventies maken voor haar niet uit. Ze is namelijk wel gewent met semantische HTML, omdat ze namelijk gewoon een screenreader gebruikt. 
+
+### Add nonsense
+
+*"Designing for people with disabilities is in large part uncharted territory. Nonsense can be a useful tool to investigate the unkown. And it’s fun."*
+
+Na het kiezen van haar volledige outfit krijgt zijn een bericht, bijvoorbeeld "leuke outfit!", of "staat je goed!". Dit is natuurlijk niet echt nodig, maar het is wel gewoon grappig om er bij toe te voegen aangezien de applicatie namelijk toch niet weet hoe het er echt uit ziet.
+
+Tijdens het testen was dit wel grappig, of dit helpt bij het verbeteren van de totale ervaring weet ik niet.
+
 ## User scenario
 
+Petra wilt graag zelfstandig kleding kunnen combineren en matchen. Ze wilt graag een applicatie die haar hier bij kan helpen. Ze wilt graag een applicatie die haar kleding stukken aanbiedt die bij elkaar passen en geschikt zijn voor de gelegenheid.
 
 ### Who?
 
@@ -63,6 +101,9 @@ Link naar het [testplan.](https://docs.google.com/document/d/1oQQ9XDxXS25HKwzruN
 ### Vrijdag 21 april - Interview + testen
 
 Vandaag hadden we het eerste interview met Petra. Dit was de eerste keer dat ik mijn groepje zag, dus ik had nog niet echt iets gemaakt wat heel uitgebreid was, maar Petra kon wel gewoon even erdoorheen gaan en hardop denken.
+
+![concept1](/images/concept/version1.png)
+Ik had nog veel kunnen doen, maar dit was de eerste versie van mij concept. Petra kreeg hier de opties om verschillende kleding stukken te kiezen. Het ging hier bij mij meer om het navigeren en hoe ik dit kon verbeteren.
 
 #### Bevindingen interview
 
@@ -107,6 +148,12 @@ Vandaag hadden we het tweede interview met Petra, dus we konden hier onze verwer
 - De kleding categorieen verdelen over meerdere pagina's. Hierdoor blijft je aandacht bij 1 ding en is het makkelijker om te navigeren.
 - Nu geeft de app een aanbeveling wat de gebruiker kan dragen, misschien is het handiger om gelijk alleen de kleding stukken te laten zien ze per stijl kan dragen.
 
+![](/images/concept/stap1.png)
+![](/images/concept/stap2.png)
+![](/images/concept/stap3.png)
+![](/images/concept/stap4.png)
+![](/images/concept/stap5.png)
+
 ## Week 3 - Prototypen, presenteren en reflecteren
 
 ### Woensdag 10 mei - Prototypen
@@ -121,41 +168,6 @@ We kregen voor de les even tijd om onze presentaties voor te bereide. Dit hebben
 
 Link naar de [presentatie.](https://docs.google.com/presentation/d/1CeNEhJFS1ypGw_i1eTxKXGO0IRABJ7lAkgF81yPrGc8/edit?usp=sharing)
 
-## Design Principles
-
-### Study situation
-
-*"In order to become specialist designers for all kinds of people with all kinds of disabilities we have to study different, individual situations."*
-
-Petra is blind geboren. Hierdoor beleefd zij haar dagelijks leven heel anders dan mij. Om een goed concept te verzinnen moet ik mij verdiepen in haar situatie. 
-
-Waar maakt ze dagelijks gebruik van? Wat zijn haar gewoontes? Wat zijn haar beperkingen? Hoe werkt het op dit moment met kleren uitzoeken? 
-
-Ze maakt gebruik van een screenreader op haar telefoon, maar zij kan gewoon een laptop gerbuiken met een special toetsenbord. Ze kan dus gewoon gebruik maken van een website. Bij het uitzoeken van haar kleren maakt ze gebruik van haar geheugen en hulp van haar man. Dit heeft niet altijd tijd om te helpen.
-
-### Prioritise identity
-
-*"Including excluded people into our design process, by seeing them as co-designers rather than study objects, can help in coming up with new, and relevant, conventions."*
-
-Door Petra bij het ontwerp proces te betrekken kunnen we een beter beeld krijgen van wat zij belangrijk vindt. Hierdoor wordt het concept ook wat persoonlijker. We maken het namelijk voor haar specifiek, dus we hoeven eigenlijk geen rekening te houden met andere mensen. We testen daarom ook zo veel mogelijk met haar en proberen haar indentiteit er zo veel mogelijk in te verwerken.
-
-Zij maakt gebruik van de NVDA screenreader, dus ik heb mijn concept ook afgestemd en getest op deze screenreader.
-
-### Ignore conventions
-
-*"The current conventions are designed by, and thus for, designers. Not all of these conventions work for non-designers. If we want to include non-designers, and especially people with disabilities, we should reconsider these conventions, after we studied their situations."*
-
-Wij als designers, vooral op CMD, zijn bepaalde conventies gewent. Hierdoor houden wij vaak rekening met deze conventies, maar deze zijn niet altijd afgesteld op iedereen. Vooral niet op mensen met een beperking. 
-
-Petra kan namelijk niet zien, dus heel van de design conventies maken voor haar niet uit. Ze is namelijk wel gewent met semantische HTML, omdat ze namelijk gewoon een screenreader gebruikt. 
-
-### Add nonsense
-
-*"Designing for people with disabilities is in large part uncharted territory. Nonsense can be a useful tool to investigate the unkown. And it’s fun."*
-
-Na het kiezen van haar volledige outfit krijgt zijn een bericht, bijvoorbeeld "leuke outfit!", of "staat je goed!". Dit is natuurlijk niet echt nodig, maar het is wel gewoon grappig om er bij toe te voegen aangezien de applicatie namelijk toch niet weet hoe het er echt uit ziet.
-
-Tijdens het testen was dit wel grappig, of dit helpt bij het verbeteren van de totale ervaring weet ik niet.
 
 ## Toekomstige verbeteringen
 
