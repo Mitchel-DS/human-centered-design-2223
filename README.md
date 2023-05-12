@@ -40,6 +40,8 @@ Waar maakt ze dagelijks gebruik van? Wat zijn haar gewoontes? Wat zijn haar bepe
 
 Ze maakt gebruik van een screenreader op haar telefoon, maar zij kan gewoon een laptop gerbuiken met een special toetsenbord. Ze kan dus gewoon gebruik maken van een website. Bij het uitzoeken van haar kleren maakt ze gebruik van haar geheugen en hulp van haar man. Dit heeft niet altijd tijd om te helpen.
 
+Ook foto's maken vereist wel wat tijd, dus om een app te gebruiken die kleding herkent of in ieder geval de kleur vereist te veel moeite voor de kleine impact die het heeft.
+
 ### Prioritise identity
 
 *"Including excluded people into our design process, by seeing them as co-designers rather than study objects, can help in coming up with new, and relevant, conventions."*
@@ -48,13 +50,19 @@ Door Petra bij het ontwerp proces te betrekken kunnen we een beter beeld krijgen
 
 Zij maakt gebruik van de NVDA screenreader, dus ik heb mijn concept ook afgestemd en getest op deze screenreader.
 
+Bijvoorbeeld vond ze het ook handig als de terug knop helemaal boven aan stond, dit is normaal niet zo, maar voor haar is dat makkelijker. Dit heb ik daarom ook over weer toegepast.
+
+Ook wilde ze misschein iets met **AI**, helaas weet ik daar weinig van af, dus heb ik het niet kunnen toepassen. Het zou wel nice zijn though, misschien in de toekosmt.
+
 ### Ignore conventions
 
 *"The current conventions are designed by, and thus for, designers. Not all of these conventions work for non-designers. If we want to include non-designers, and especially people with disabilities, we should reconsider these conventions, after we studied their situations."*
 
 Wij als designers, vooral op CMD, zijn bepaalde conventies gewent. Hierdoor houden wij vaak rekening met deze conventies, maar deze zijn niet altijd afgesteld op iedereen. Vooral niet op mensen met een beperking. 
 
-Petra kan namelijk niet zien, dus heel van de design conventies maken voor haar niet uit. Ze is namelijk wel gewent met semantische HTML, omdat ze namelijk gewoon een screenreader gebruikt. 
+Petra kan namelijk niet zien, dus heel van de design conventies maken voor haar niet uit. Ze is namelijk wel gewent met semantische HTML, omdat ze namelijk gewoon een screenreader gebruikt, dus ik heb mijn website natuurlijk zo toeganglijk mogelijk gemaakt voor een screenreader. 
+
+Aan het ontwerp heb ik vrijwel niks gedaan, want dat kan ze toch niet zien!
 
 ### Add nonsense
 
@@ -62,7 +70,7 @@ Petra kan namelijk niet zien, dus heel van de design conventies maken voor haar 
 
 Na het kiezen van haar volledige outfit krijgt zijn een bericht, bijvoorbeeld "leuke outfit!", of "staat je goed!". Dit is natuurlijk niet echt nodig, maar het is wel gewoon grappig om er bij toe te voegen aangezien de applicatie namelijk toch niet weet hoe het er echt uit ziet.
 
-Tijdens het testen was dit wel grappig, of dit helpt bij het verbeteren van de totale ervaring weet ik niet.
+Tijdens het testen was dit wel grappig, of dit helpt bij het verbeteren van de totale ervaring weet ik niet, maar een soort feedback terug krijgen is natuurlijk wel grappig.
 
 ## User scenario
 
@@ -74,15 +82,15 @@ Petra, is blind geboren, is getrouwd en werkt als beleidsmedewerker. Ze houdt er
 
 ### What?
 
-Graag wilt Petra, weten welke kleding stukken bij elkaar passen en welke kleding stukken geschikt zijn voor welke gelegenheid. Dit vraagt ze op dit moment meestal aan haar man of vriendinnen, maar dat gaat niet altijd even makkelijk.
+Graag wilt Petra, weten welke kleding stukken bij elkaar passen en welke kleding stukken geschikt zijn voor welke gelegenheid. Dit vraagt ze op dit moment meestal aan haar man of vriendinnen, maar dat gaat niet altijd even makkelijk. Dit wilt ze gewoon zelf kunnen doen.
 
 ### How?
 
-Door een applicatie te bouwen die haar de opties geeft welke kleding stuk zij wilt gaan dragen en op basis daar van andere kleding stukken aanbiedt die bij elkaar passen en geschikt zijn voor de gelegenheid.
+Door een applicatie te bouwen van haar virtuele kleding kast die haar de opties geeft welke kleding stuk zij wilt gaan dragen en op basis daar van andere kleding stukken aanbiedt die bij elkaar passen en geschikt zijn voor de gelegenheid. Op deze manier krijgt ze makkelijk suggesties over wat ze aan kan trekken.
 
 ### Why?
 
-Op deze manier kan Petra zelfstanding, zonder hulp van anderen, kleding combineren en matchen. Dit geeft haar een gevoel van zelfstandigheid en vrijheid. Hierdoor kan ze alles gewoon zelf doen, en indien ze dat zelf wilt - hulp inschakelen van anderen.
+Op deze manier kan Petra zelfstanding, zonder hulp van anderen, kleding combineren en matchen. Dit geeft haar een gevoel van zelfstandigheid en vrijheid. Hierdoor kan ze alles gewoon zelf doen, en indien ze dat zelf wilt - hulp inschakelen van anderen (maar dat zo min mogelijk).
 
 ## Week 1 - Intro en aannames testen 
 
