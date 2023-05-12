@@ -29,9 +29,10 @@ Petra is een echte gebruiker en daarom is het belangrijk om haar te betrekken bi
 
 ## User scenario
 
+
 ### Who?
 
-Petra, is blind geboren, is getrouwd en werkt als beleidsmedewerker.
+Petra, is blind geboren, is getrouwd en werkt als beleidsmedewerker. Ze houdt er van uitgaan met vriendinnen en shoppen. Bij het uitzoeken van haar kleding herkent ze die meestal aan de textuur of materiaal. Ze houdt niet graag van het vragen van hulp en doet dit ook weinig. 
 
 ### What?
 
@@ -39,7 +40,7 @@ Graag wilt Petra, weten welke kleding stukken bij elkaar passen en welke kleding
 
 ### How?
 
-Door een systeem te maken die haar kleding kast omzet naar een digitale versie, die haar makkelijk kan helpen met het aanbieden van kleding stukken die bij elkaar passen en geschikt zijn voor de gelegenheid. + desnoods een functie om kleding te kunnen delen met haar vriendinnen voor extra hulp.
+Door een applicatie te bouwen die haar de opties geeft welke kleding stuk zij wilt gaan dragen en op basis daar van andere kleding stukken aanbiedt die bij elkaar passen en geschikt zijn voor de gelegenheid.
 
 ### Why?
 
@@ -67,24 +68,44 @@ Vandaag hadden we het eerste interview met Petra. Dit was de eerste keer dat ik 
 
 Een aantal bevindingen die mij zijn bijgebleven die voor mij van belang zijn waren: 
 
--
--
+- Petra vindt Siri te traag. Ze gebruikt daarom zelf ook NVDA screenreader. Deze is gratis en veel sneller, omdat je de snelheid zelf kan instellen.
+- Petra is al best bekend met de hierarchie van een website. Ze weet dat de belangrijkste informatie bovenaan staat en dat je met tab door de pagina kan navigeren. 
+- Er vond al een kleine test plaats van mijn teamgenoot en die had een dropdown gebruikt, dit werkte niet echt heel goed en voor radio buttons werkte het anders per browser.
+- Ze heeft op dit moment niet echt een systeem hoe ze haar kleding kast indeelt. 
+- Ze wilt indien nodig haar kleding kast kunnen delen met haar vriendinnen om op die manier extra hulp te krijgen.
+- Een AI die haar kleding automatisch kan matchen?
+- Haar grootste belang is het matchen van haar kleding.
+
+![](images/interview1.png)
+![](images/interview1_2.png)
+![](images/interview1_3.png)
 
 #### Conclusie interview 1 
 
-#### Verbeteringen prototype
+> "Petra wilt graag een systeem die haar kleding kan matchen en combineren. Ze wilt graag een systeem die haar kleding kast kan omzetten naar een digitale versie, die haar makkelijk kan helpen met het aanbieden van kleding stukken die bij elkaar passen en geschikt zijn voor de gelegenheid. + desnoods een functie om kleding te kunnen delen met haar vriendinnen voor extra hulp."
 
 ## Week 2 - Prototypen en testen 
 
 ### Woensdag 26 april - Tweede interview + testen
 
-Vandaag hadden we het tweede interview met Petra, dus we konden hier onze verwerkte bevindingen gaan testen. 
+Vandaag hadden we het tweede interview met Petra, dus we konden hier onze verwerkte bevindingen gaan testen. Dit was ook gelijk de laaste interview met Petra, wat best jammer is, omdat bij de eindoplevering, Petra niet aanwezig is.
 
 #### Bevindingen interview 2
 
+- Het navigeren door de pagina met tab ging voornamelijk wel goed, maar misschien bij te veel informatie gaat het navigeren wat lastiger.
+- Ze had wel hulp nodig bij het opzetten. Ze wist niet helemaal waar de knoppen waren.
+- Te veel keuzes op 1 pagina.
+
+![](images/interview2.png)
+
 #### Conclusie interview 2
 
+> "De test ging opzich wel goed, de core functionaliteit werkte en kon ze besturen. Omdat het natuurlijk op een laptop is, is het natuurlijk niet altijd even makkelijk te gebruiken."
+
 #### Verbeteringen prototype
+
+- De kleding categorieen verdelen over meerdere pagina's. Hierdoor blijft je aandacht bij 1 ding en is het makkelijker om te navigeren.
+- Nu geeft de app een aanbeveling wat de gebruiker kan dragen, misschien is het handiger om gelijk alleen de kleding stukken te laten zien ze per stijl kan dragen.
 
 ## Week 3 - Prototypen, presenteren en reflecteren
 
@@ -104,29 +125,45 @@ Link naar de [presentatie.](https://docs.google.com/presentation/d/1CeNEhJFS1ypG
 
 ### Study situation
 
+*"In order to become specialist designers for all kinds of people with all kinds of disabilities we have to study different, individual situations."*
+
 Petra is blind geboren. Hierdoor beleefd zij haar dagelijks leven heel anders dan mij. Om een goed concept te verzinnen moet ik mij verdiepen in haar situatie. 
 
-Waar maakt ze dagelijks gebruik van? Wat zijn haar gewoontes? Wat zijn haar beperkingen?
+Waar maakt ze dagelijks gebruik van? Wat zijn haar gewoontes? Wat zijn haar beperkingen? Hoe werkt het op dit moment met kleren uitzoeken? 
 
-Hoe werkt het op dit moment met kleren uitzoeken? 
+Ze maakt gebruik van een screenreader op haar telefoon, maar zij kan gewoon een laptop gerbuiken met een special toetsenbord. Ze kan dus gewoon gebruik maken van een website. Bij het uitzoeken van haar kleren maakt ze gebruik van haar geheugen en hulp van haar man. Dit heeft niet altijd tijd om te helpen.
 
 ### Prioritise identity
 
-Door Petra bij het ontwerp proces te betrekken kunnen we een beter beeld krijgen van wat zij belangrijk vindt. Hierdoor wordt het concept ook wat persoonlijker. We maken het namelijk voor haar specifiek, dus we hoeven eigenlijk geen rekening te houden met andere mensen.
+*"Including excluded people into our design process, by seeing them as co-designers rather than study objects, can help in coming up with new, and relevant, conventions."*
+
+Door Petra bij het ontwerp proces te betrekken kunnen we een beter beeld krijgen van wat zij belangrijk vindt. Hierdoor wordt het concept ook wat persoonlijker. We maken het namelijk voor haar specifiek, dus we hoeven eigenlijk geen rekening te houden met andere mensen. We testen daarom ook zo veel mogelijk met haar en proberen haar indentiteit er zo veel mogelijk in te verwerken.
+
+Zij maakt gebruik van de NVDA screenreader, dus ik heb mijn concept ook afgestemd en getest op deze screenreader.
 
 ### Ignore conventions
 
-Wij als designers, vooral op CMD, zijn bepaalde conventies gewent. Hierdoor houden wij vaak rekening met deze conventies, maar deze zijn niet altijd afgesteld op iedereen. Vooral niet op mensen met een beperking.
+*"The current conventions are designed by, and thus for, designers. Not all of these conventions work for non-designers. If we want to include non-designers, and especially people with disabilities, we should reconsider these conventions, after we studied their situations."*
+
+Wij als designers, vooral op CMD, zijn bepaalde conventies gewent. Hierdoor houden wij vaak rekening met deze conventies, maar deze zijn niet altijd afgesteld op iedereen. Vooral niet op mensen met een beperking. 
+
+Petra kan namelijk niet zien, dus heel van de design conventies maken voor haar niet uit. Ze is namelijk wel gewent met semantische HTML, omdat ze namelijk gewoon een screenreader gebruikt. 
 
 ### Add nonsense
 
-...
+*"Designing for people with disabilities is in large part uncharted territory. Nonsense can be a useful tool to investigate the unkown. And it’s fun."*
+
+Na het kiezen van haar volledige outfit krijgt zijn een bericht, bijvoorbeeld "leuke outfit!", of "staat je goed!". Dit is natuurlijk niet echt nodig, maar het is wel gewoon grappig om er bij toe te voegen aangezien de applicatie namelijk toch niet weet hoe het er echt uit ziet.
+
+Tijdens het testen was dit wel grappig, of dit helpt bij het verbeteren van de totale ervaring weet ik niet.
 
 ## Toekomstige verbeteringen
 
 Natuurlijk heb ik niet alles wat ik wilde kunnen verwerken in het concept. Hieronder een lijstje met dingen die ik in de toekomst nog zou willen toevoegen als ik daar tijd voor zou hebben. 
 
-- 
+- Op dit moment worden de kleding combinaties van te voren gemaakt en moeten ook telkens worden geupdate als er een nieuw kleding stuk wordt toegevoegd. Het zou mooi zijn als de AI zelf kleding combinaties kan maken en deze kan voorstellen aan Petra.
+- Een database aanmaken met al haarkleding stukken. Dan kan ze zelf ook kleding toevoegen, verwijderen of aanpassen.
+- Het is op dit moment natuurlijk een web applicatie, maar het is niet handig om elke keer een laptop of computer er bij te halen om je kleren uit te zoeken. Het zou mooi zijn als het een mobiele applicatie wordt, zodat ze het gewoon op haar telefoon kan doen. 
 
 ### License
 This repository is licensed as [MIT](LICENSE).
